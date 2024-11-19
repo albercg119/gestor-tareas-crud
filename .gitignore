@@ -1,0 +1,17 @@
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de configuración PHP
+*.log
+/config/database.php
+
+# Dependencias y directorios de compilación
+/vendor/
+/node_modules/
